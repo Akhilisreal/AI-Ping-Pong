@@ -1,0 +1,32 @@
+.heading h3 {
+    display: inline;
+}
+
+.heading {
+    width: 100%;
+    line-height: 4;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid;
+}
+
+.modal-dialog {
+    width: 80%;
+}
+
+.modal-body {
+    text-align: left;
+    font-size: 20px;
+}
+
+h4 {
+    background-color: white;
+    line-height: 3;
+}
+
+canvas {
+    border: 3px solid white;
+    border-radius: 10px;
+}
